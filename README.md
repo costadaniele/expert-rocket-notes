@@ -11,7 +11,7 @@ da Web como **Web Storage** e **Web Speech**.
 
 ## Demonstração
 
-<img src="/demonstracao.gif">
+![](/public/demonstracao.gif)
 
 
 ## Instalação
